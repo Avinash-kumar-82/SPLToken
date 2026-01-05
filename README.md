@@ -22,4 +22,4 @@ npm start
 ### 4. Understand the Account Model in solana ecosystem
 
 
-![logo](https://github.com/Avinash-kumar-1932/SPLToken/blob/main/SPL.png)
+![logo](https://github.com/Avinash-kumar-82/SPLToken/blob/main/SPL.png)
